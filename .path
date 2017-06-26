@@ -1,0 +1,12 @@
+PATH=/usr/local/share/python:$PATH
+PATH=/usr/local/heroku/bin:$PATH
+PATH=~/.yarn/bin:$PATH
+# Add Homebrew `/usr/local/bin` and User `~/bin` to the `$PATH`
+PATH=$HOME/bin:$PATH
+PATH=/usr/local/bin:$PATH
+#Add Postgres
+PATH=/Applications/Postgres.app/Contents/Versions/9.4/bin:$PATH
+### Added by the Heroku Toolbelt
+
+PATH="$HOME/.rvm/bin:$PATH" # Add RVM to PATH for scripting
+export PATH

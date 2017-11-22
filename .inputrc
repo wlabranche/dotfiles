@@ -1,0 +1,11 @@
+set editing-mode vi
+set show-mode-in-prompt
+
+"\C-x\C-r": re-read-init-file
+
+set keymap vi-insert
+"jk": "\e"
+
+set keymap vi-command
+"ZZ": "\C-m"
+

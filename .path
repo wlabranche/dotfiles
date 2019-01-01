@@ -9,4 +9,5 @@ PATH=/Applications/Postgres.app/Contents/Versions/9.4/bin:$PATH
 ### Added by the Heroku Toolbelt
 
 PATH="$HOME/.rvm/bin:$PATH" # Add RVM to PATH for scripting
+PATH="$HOME/.gem/ruby/2.3.0/bin:$PATH"
 export PATH

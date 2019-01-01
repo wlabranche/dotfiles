@@ -10,8 +10,6 @@ alias server='python -m SimpleHTTPServer'
 alias react='react-native'
 alias py='python'
 
-eval "$(thefuck --alias)"
-
 # weird things
 alias bashrc='vi ~/.bashrc'
 alias profile='vi ~/.bash_profile'
